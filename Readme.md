@@ -4,3 +4,4 @@
 # salvar
 # qUso do comenado Restore
 *comando git push
+*comando legal
