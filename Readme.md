@@ -1,4 +1,6 @@
 # Curso Digital: GIT
 
-# Salvando Modificações
+# Salvando Modificaçõesgit 
 # salvar
+# qUso do comenado Restore
+*comando git push
